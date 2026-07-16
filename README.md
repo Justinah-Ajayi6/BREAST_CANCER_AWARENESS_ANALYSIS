@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard exploring breast cancer awareness, self-examination behavior, and mammogram screening uptake across a synthetic patient dataset representative of Nigeria. The dashboard uncovers a core insight: **awareness does not reliably translate into screening action** — and shows where that gap is widest.
 
-![Dashboard Screenshot]
+![Dashboard Preview](Dashboard Screenshot)
 
 ## Overview
 
